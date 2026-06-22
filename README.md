@@ -25,3 +25,4 @@ The project resulted in the creation of a reliable EIS database that can be used
 Integration with Machine Learning, Real-Time Monitoring System, Integration with IoT Technology
 # Applications
 Smart Agriculture, Early Spoilage Detection, Non-Destructive Testing.
+(files attatched can only be opened with Origin)
